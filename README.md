@@ -7,7 +7,7 @@ Getting this project running on your own compter should take 3 - 5 minutes. Depo
 
 ## Getting Started
 
-1. Download the code, run the following in the commandline: "git clone https://github.com/OER-Dev/weather-app.git"
+1. Download the code, run the following in the commandline: git clone https://github.com/christer-io/yr-look-alike.git
 2. Run the following in the commandline: "npm install"
 3. create .env.local file and inject API key
 4. Run the following in the commandline to start your webserver localy: "npm run dev"
