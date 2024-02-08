@@ -1,3 +1,5 @@
+IMPORTANT: This reference application is for demonstration/testing only. The code quality is not production quality. 
+
 For this project you will need a Google API key. The key needs to be injected into your .env.local file as "GOOGLE_API_KEY="
 
 Getting this project running on your own compter should take 3 - 5 minutes. Depoloying on Vercel should take another 3 - 5 minutes. This inclueds 3 steps:
